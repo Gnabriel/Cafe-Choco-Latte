@@ -1,34 +1,32 @@
 # Cafe-Choco-Latte
 Assignment 1 in the course Dynamic Web Applications with focus on HTML5 elements.
 
-## Målet med sajten
-Att nå kunder som älskar kaffe och choklad av hög kvalitet i olika former genom att
-berätta om vilka vi är som driver caféet, vad man kan få hos oss i form av menyer och
-tjänster.
+## Goal of the website
+To reach customers who love high quality coffee and chocolate in various forms by
+communicating who runs the café and what you can get from it by showing menus and
+services.
 
-## Målgruppen
-Alla är självklart välkomna till vårt café, men då kvaliteten på det vi serverar är något
-högre så är priser också något högre än ett vanligt café. Vår huvudsakliga målgrupp
-blir därför människor i åldrarna 30-55 som vill ha en liten lyxigare guldkant på
-tillvaron.
+## Target group
+Everyone is welcome to the café, but since the quality of what we serve is slightly higher
+than a regular café, prices are also somewhat higher. The main target group
+is therefore people aged 30-55 who seek that something extra in their daily life.
 
-* Persona-exempel 1
-Daniel är 33 år och jobbar som fastighetsmäklare sedan 4 år tillbaka.
-Han stora intressen är arkitektur och kaffe vilket har gjort att många
-semestrar spenderas i olika europeiska städer där han besöker hus
-med spännande arkitektur och caféer med riktigt gott kaffe. Han anser
-sig vara lite av en finsmakare vad gäller kaffe och vet hur han vill att
-det ska smaka.
+### Persona 1 - Daniel
+Daniel is 33 years old and has been working as a real estate agent for 4 years.
+His major interests are architecture and coffee, which has made many
+vacations spent in various European cities where he visits houses
+with exciting architecture and cafes with very good quality coffee. He thinks of
+himself as a bit of a connoisseur when it comes to coffee and has a particular thought
+of how it should taste.
 
-* Persona-exempel 2
-Kristin är 40 år och äger en webbyrå med 7 anställda. Den lilla
-fritid hon har ägnar hon åt att antingen vara ute i skog och mark,
-eller att shoppa med vänner. Hon tar gärna affärsmöten på stan och
-då på mysiga caféer där man serverar goda chokladkakor, detta då
-Kristin älskar allt med choklad i.
+### Persona 2 - Kristin
+Kristin is 40 years old and owns a web agency with 7 employees. The small amount of
+free time that she has is spent either on being out in the nature, or on shopping
+with friends. She likes to have business meetings in the city in cozy cafes where
+good chocolate cakes are served since Kristin loves everything with chocolate in it.
 
-## Innehåll
-Sajten ska självklart innehålla information om caféet (som öppettider, historia och om
-ägarna), dess meny och att man kan boka in sig på chokladprovning. Kring chokladen
-vill man också ha information om dess ursprung och de olika sorter som finns. Bilder
-på kaffe och choklad som skapar ett sug att vilja komma och smaka. 
+## Content
+The site must, of course, contain information about the café (such as opening hours, history and information about
+the owners), its menu and the ability to book a chocolate tasting session. Besides the chocolate
+you also want information about its origin and the different varieties that are available. Pictures
+of coffee and chocolate that creates a craving for the costumer to come and visit the café should be present.
