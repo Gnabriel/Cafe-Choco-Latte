@@ -1,4 +1,4 @@
-# Cafe-Choco-Latte
+# Café Choco-Latte
 Assignment 1 in the course Dynamic Web Applications.
 
 ## Goal of the website
