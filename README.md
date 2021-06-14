@@ -1,5 +1,5 @@
-# Cafe-Choco-Latte
-Assignment 1 in the course Dynamic Web Applications with focus on HTML5 elements.
+# Café Choco-Latte
+Assignment 1 in the course Dynamic Web Applications.
 
 ## Goal of the website
 To reach customers who love high quality coffee and chocolate in various forms by
